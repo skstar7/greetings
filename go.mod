@@ -1,3 +1,3 @@
-module github.com/skstar7/greetings.git
+module github.com/skstar7/greetings
 
 go 1.23.0
